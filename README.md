@@ -3,7 +3,7 @@
 Meu eu do futuro
 
 ## 📒 Descrição
-Quis retratar de como me veria no futuro.
+Meu retrato de como me veria no futuro.
 
 ## 🤖 Tecnologias Utilizadas
 Leonardo AI
